@@ -14,9 +14,12 @@ Posibles candidatos:
   Analizaremos la página web ya existente con las de la competencia y nos ayudaremos de perfiles de usuarios ficticios para comprender mejor al público. Además vamos a valorar la experiencia de usuario para hacerla lo más clara e intuitiva posible.
 
 ### 1.1. Antecedentes y objetivos (el "why")
-  * Contexto: ¿Por qué estamos evaluando estos prototipos ahora? (Ej: "Validar la nueva interfaz de GazeMapping antes de pasar a desarrollo").
-  * Objetivos de investigación: Deben ser específicos. No digas "ver si gusta"; di "evaluar si la ubicación del menú lateral permite completar una reserva en menos de 30 segundos".
-  * Experiencia del equipo / justificación (como diseñador / stakeholder / observador)
+  * Contexto: Asegurar la intuitividad de la navegación por la página web y que se mantenga la esencia de anime.
+  * Objetivos de investigación: Conseguir que el usuario promedio pueda ver el menú completo en 5 minutos de navegación y que conozca mejor el anime en el proceso.
+  * Experiencia del equipo
+    > No tenemos ninguna experiencia como diseñadores de páginas web.
+    > Tenemos algo de experiencia con proyectos pequeños de informática y electrónica que implican una fase de diseño.
+    > Como observadores nos hemos dado cuenta de que la mayoría de comercios de ramen japoneses locales carecen de una página web con funcionalidades como reserva online o ver la carta.
 
 ### 1.2. Metodología (el "how")
   Herramientas:
