@@ -31,7 +31,7 @@ Queremos que la página provoque admiración por la cultura japonesa y su comida
 ** Como stakeholders: Tenemos algo de experiencia con proyectos pequeños de informática y electrónica que implican una fase de diseño.
 ** Como observadores: Nos hemos dado cuenta de que la mayoría de comercios de ramen japoneses locales carecen de una página web con funcionalidades como reserva online o ver la carta.
 
-### Metodología (the how)
+### 1.3. Metodología (the how)
 Hemos decidido que los métodos más útiles para nosotros serán aquellos que tengan en cuenta las acciones de los usuarios, que sean cualitativos y que mezclen tanto un contexto natural como preestablecido. Con ello buscamos encontrar la mayor cantidad de información posible tanto explícita como implícita (por ejemplo analizando las acciones de los usuarios). Pese a ser la opción más tediosa, decidimos optar por ella, dado que partimos desde 0 y necesitamos la mayor cantidad de información posible. 
 
 Herramientas a utilizar:
@@ -55,6 +55,20 @@ Entregaremos un reporte del usability testing, otro reporte de las entrevistas y
 
 ## 2. Desk research: Competitor analysis
 Hemos elegido analizar los siguientes competidores:
-* [Ramen Shifu]()
-* [Buga Ramen]()
-* [Anime Ramen]() 
+* [Ramen Shifu](https://www.ramenshifu.com/ramen-shifu-granada/)
+* [Buga Ramen](https://buga-ramen.com/)
+* [Anime Ramen](https://animeramen.com/) 
+[!alt_text](P1/imgs/CompetitorAnalysis.jpg)
+
+Nuestra conclusión del análisis de competidores es que Ramen SHIFU es el competidor con mejor temática y diseño pero su navegación es poco intuitiva. Anime Ramen no tiene tan buen diseño pero tiene más funcionalidades como permitir la reserva y los pedidos online, además de una navegación intuitiva. BUGA Ramen tiene un diseño acorde con la temática (que mejora bastante si se ve desde un móvil) y permite contactar con un formulario. Sin embargo no tiene tan buena accesibilidad ni compatibilidad con ordenadores. 
+
+Teniendo en cuenta todos estos aspectos hemos decidido que la ganadora es BUGA Ramen por su combinación entre diseño y funcionalidades.
+
+## 3. Persona
+Hemos creado dos perfiles de personas. Uno de ellos es un “friki” de los videojuegos y el anime, con habilidades tecnológicas. El otro usuario es un padre de familia divorciado que no tiene prácticamente ningún manejo con los dispositivos y que va a entrar en la página para llevar a comer a sus hijos. El objetivo de la página web es permitir cumplir sus objetivos a ambas personas con perfiles tan distintos de una forma intuitiva y agradable.
+
+Persona 1:
+[!alt_text](P1/imgs/Persona #1.png)
+
+Persona 2:
+[!alt_text](P1/imgs/Persona #2.png)
