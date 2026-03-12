@@ -23,6 +23,8 @@
 
 
 ### Prototipo Lo-FI Wireframe 
+* Web
+* App
 
 
 ### Conclusiones  
