@@ -1,4 +1,6 @@
 # Entregable práctica 1 DIU
+Este .md tiene el mismo contenido que el pdf entregado por prado. Sin embargo, tiene enlaces a los archivos multimedia en el repositorio de Github.
+
 ## 1. Research plan
 ### 1.1 Briefing
 Nuestro proyecto consiste en un restaurante de comida japonesa en el que los camareros son robots que se asemejan al personaje de anime Doraemon. Dichos robots serán la atracción principal del restaurante, sirviendo los platos desde su bolsillo mágico. Queremos tener platos típicos del anime como los onigiri, tonkatsu o tempura y postres como los taiyaki y los famosos dorayaki.
