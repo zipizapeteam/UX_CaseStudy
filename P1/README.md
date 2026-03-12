@@ -68,7 +68,7 @@ Teniendo en cuenta todos estos aspectos hemos decidido que la ganadora es BUGA R
 Hemos creado dos perfiles de personas. Uno de ellos es un “friki” de los videojuegos y el anime, con habilidades tecnológicas. El otro usuario es un padre de familia divorciado que no tiene prácticamente ningún manejo con los dispositivos y que va a entrar en la página para llevar a comer a sus hijos. El objetivo de la página web es permitir cumplir sus objetivos a ambas personas con perfiles tan distintos de una forma intuitiva y agradable.
 
 Persona 1:
-[!alt_text](/imgs/Persona #1.png)
+![alt_text](/imgs/Persona #1.png)
 
 Persona 2:
-[!alt_text](/imgs/Persona #2.png)
+![alt_text](/imgs/Persona #2.png)
