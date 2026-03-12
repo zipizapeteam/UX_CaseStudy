@@ -68,7 +68,26 @@ Teniendo en cuenta todos estos aspectos hemos decidido que la ganadora es BUGA R
 Hemos creado dos perfiles de personas. Uno de ellos es un “friki” de los videojuegos y el anime, con habilidades tecnológicas. El otro usuario es un padre de familia divorciado que no tiene prácticamente ningún manejo con los dispositivos y que va a entrar en la página para llevar a comer a sus hijos. El objetivo de la página web es permitir cumplir sus objetivos a ambas personas con perfiles tan distintos de una forma intuitiva y agradable.
 
 Persona 1:
-![alt_text](/imgs/Persona #1.png)
+![alt_text](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P1/imgs/Persona%20%231.png)
 
 Persona 2:
-![alt_text](/imgs/Persona #2.png)
+![alt_text](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P1/imgs/Persona%20%232.png)
+
+## 4. User Journey Map
+Hemos creado un Journey Map para cada uno de nuestros usuarios ficticios. Cada uno tiene sus propios objetivos, preferencias, reacciones y pensamientos dependiendo de su perfil. 
+
+Primer User Journey Map:
+![alt_text](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P1/imgs/UserJourneyMap%231.png)
+
+Segundo User Journey Map:
+![alt_text](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P1/imgs/UserJourneyMap%232.png)
+
+## 5. Usability Review
+Se puede encontrar el Usability Review [aquí](P1/imgs/UsabilityReviewpdf)
+
+## 6. Briefing final
+Anime Ramen ofrece una página web muy bonita visualmente, dejando clara la temática y poniendo tanto videos como fotos del local y la comida, con un aspecto agradable y llamativo a la vista. Sin embargo, la página deja detalles sin pulir, que pueden perjudicar gravemente la experiencia del usuario promedio que la utiliza. La web es  en algunas partes muy monótona y en otras con muchos estímulos, no dan prioridad a ninguna parte de la misma y dejan al usuario que se enfrente solo al menú. Todo eso provoca que pese a tener todo lo importante adelante, el usuario sea incapaz a veces de realizar el camino correcto. Además la página no tiene un buen mantenimiento, con locales que ya no existen en ella y con contenido desactualizado. También se podría hacer una mejor elección de la fuente y colores para aumentar la legibilidad.
+
+Por otro lado, una vez encauzado el camino, la página tiene un buen sistema para realizar los pedidos, la cual detecta algunos errores y que te permite reanudar por donde te habías quedado, sin perder el progreso. Además tiene un mapa donde te indica bastante fácil cuál es la ubicación del local en tu ciudad.
+
+En general, es una página en la que lo visual está muy cuidado y da gusto entrar en ella, pero deben trabajar más en las tareas de navegación.
