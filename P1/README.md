@@ -71,7 +71,7 @@ Segundo User Journey Map:
 ![alt_text](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P1/imgs/UserJourneyMap%232.png)
 
 ## 5. Usability Review
-Se puede encontrar el Usability Review [aquí](P1/imgs/UsabilityReviewpdf)
+Se puede encontrar el Usability Review [aquí](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P1/imgs/UsabilityReview.pdf)
 
 ## 6. Briefing final
 Anime Ramen ofrece una página web muy bonita visualmente, dejando clara la temática y poniendo tanto videos como fotos del local y la comida, con un aspecto agradable y llamativo a la vista. Sin embargo, la página deja detalles sin pulir, que pueden perjudicar gravemente la experiencia del usuario promedio que la utiliza. La web es  en algunas partes muy monótona y en otras con muchos estímulos, no dan prioridad a ninguna parte de la misma y dejan al usuario que se enfrente solo al menú. Todo eso provoca que pese a tener todo lo importante adelante, el usuario sea incapaz a veces de realizar el camino correcto. Además la página no tiene un buen mantenimiento, con locales que ya no existen en ella y con contenido desactualizado. También se podría hacer una mejor elección de la fuente y colores para aumentar la legibilidad.
