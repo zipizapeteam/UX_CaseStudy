@@ -27,9 +27,9 @@ Queremos que la página provoque admiración por la cultura japonesa y su comida
 * Objetivos de investigación: Conseguir que el usuario promedio pueda ver el menú completo en 5 minutos de navegación y que conozca mejor el anime en el proceso.
 
 * Experiencia del equipo:
-** Como diseñadores: No tenemos ninguna experiencia como diseñadores de páginas web.
-** Como stakeholders: Tenemos algo de experiencia con proyectos pequeños de informática y electrónica que implican una fase de diseño.
-** Como observadores: Nos hemos dado cuenta de que la mayoría de comercios de ramen japoneses locales carecen de una página web con funcionalidades como reserva online o ver la carta.
+  * Como diseñadores: No tenemos ninguna experiencia como diseñadores de páginas web.
+  * Como stakeholders: Tenemos algo de experiencia con proyectos pequeños de informática y electrónica que implican una fase de diseño.
+  * Como observadores: Nos hemos dado cuenta de que la mayoría de comercios de ramen japoneses locales carecen de una página web con funcionalidades como reserva online o ver la carta.
 
 ### 1.3. Metodología (the how)
 Hemos decidido que los métodos más útiles para nosotros serán aquellos que tengan en cuenta las acciones de los usuarios, que sean cualitativos y que mezclen tanto un contexto natural como preestablecido. Con ello buscamos encontrar la mayor cantidad de información posible tanto explícita como implícita (por ejemplo analizando las acciones de los usuarios). Pese a ser la opción más tediosa, decidimos optar por ella, dado que partimos desde 0 y necesitamos la mayor cantidad de información posible. 
