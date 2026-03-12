@@ -57,7 +57,8 @@ Entregaremos un reporte del usability testing, otro reporte de las entrevistas y
 Hemos elegido analizar los siguientes competidores:
 * [Ramen Shifu](https://www.ramenshifu.com/ramen-shifu-granada/)
 * [Buga Ramen](https://buga-ramen.com/)
-* [Anime Ramen](https://animeramen.com/) 
+* [Anime Ramen](https://animeramen.com/)
+  
 ![alt_text](P1/imgs/CompetitorAnalysis.jpg)
 
 Nuestra conclusión del análisis de competidores es que Ramen SHIFU es el competidor con mejor temática y diseño pero su navegación es poco intuitiva. Anime Ramen no tiene tan buen diseño pero tiene más funcionalidades como permitir la reserva y los pedidos online, además de una navegación intuitiva. BUGA Ramen tiene un diseño acorde con la temática (que mejora bastante si se ve desde un móvil) y permite contactar con un formulario. Sin embargo no tiene tan buena accesibilidad ni compatibilidad con ordenadores. 
