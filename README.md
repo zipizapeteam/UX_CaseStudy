@@ -56,7 +56,7 @@ Miembros y nombre del equipo:
 <br>
 
 ## Paso 1. UX User & Desk Research & Analisis 
-Puedes encontrar la práctica 1 [aquí](https://github.com/zipizapeteam/UX_CaseStudy/edit/master/P1)
+Puedes encontrar la práctica 1 [aquí](https://github.com/zipizapeteam/UX_CaseStudy/tree/master/P1)
 
 ## Paso 2. UX Design  
 
