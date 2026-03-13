@@ -1,5 +1,5 @@
 # Entregable práctica 1 DIU
-Este .md tiene el mismo contenido que el pdf entregado por prado. Sin embargo, tiene enlaces a los archivos multimedia en el repositorio de Github.
+Este .md tiene el mismo contenido que el [pdf entregado por prado](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P1/EntregaP1.pdf). Sin embargo, tiene enlaces a los archivos multimedia en el repositorio de Github.
 
 ## 1. Research plan
 ### 1.1 Briefing
