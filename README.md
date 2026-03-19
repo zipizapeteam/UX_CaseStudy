@@ -49,8 +49,51 @@ Miembros y nombre del equipo:
 
 # Proceso de Diseño 
 
+<br>
+
+## Paso 1. UX User & Desk Research & Analisis 
+
+>>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 
+### 1.a User Reseach Plan
+![Método UX](img/Competitive.png) 
+-----
+
+>>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+
+
+### 1.b Competitive Analysis
+![Método UX](img/Competitive.png) 
+-----
+
+>>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+
+
+### 1.c Personas
+![Método UX](img/Persona.png) 
+-----
+
+>>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+
+
+### 1.d User Journey Map
+![Método UX](img/JourneyMap.png) 
+----
+
+>>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+
+
+### 1.e Usability Review
+![Método UX](img/usabilityReview.png) 
+----
+
+>>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
+>>> - Enlace al documento:  (xls/pdf) 
+>>> - URL y Valoración numérica obtenida: 
+>>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+
+<br>
 
 
 <br>
