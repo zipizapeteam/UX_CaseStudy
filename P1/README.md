@@ -28,7 +28,7 @@ Herramientas a utilizar:
 * Entrevistas: después de hacer el Usability Testing podemos hacer entrevistas para comparar la forma de actuar de los usuarios con su opinión
 * Unmoderated testing: queremos recopilar datos del usuario cuando éste se encuentra “solo ante el peligro”, midiendo tanto qué acciones realiza en la página como cuánto tarda en hacerlas.
 
-### 1.4. Perfil de los participantes (thw who)
+### 1.4. Perfil de los participantes (the who)
 * Según su edad: Queremos enfatizar en los usuarios en un rango de edad entre 30 y 50 años porque serán los padres responsables del público objetivo (niños y adolescentes que ven la serie actualmente) y son el público al que mayor facilidad hay que darle para reservar , dado que alguien muy interesado en el tema, pondrá más empeño en entender la página. Además queremos recopilar a usuarios de entre 25 a 30 años de una forma menos intensiva, ya que a personas en dicho rango de edad les generará nostalgia y acabarán probando el restaurante igualmente.
 
 * Según su competencia digital: Buscamos a usuarios que tengan conocimientos básicos de competencias digitales para hacer la web lo más intuitiva posible.
