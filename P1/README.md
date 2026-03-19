@@ -76,6 +76,7 @@ Segundo User Journey Map:
 
 ## 5. Usability Review
 Se puede encontrar el Usability Review [aquí](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P1/imgs/UsabilityReview.pdf)
+
 Nuestras conclusiones sobre el Usability Review realizado son:
 * La página web es poco intuitiva ya que hay una sobrecarga de elementos visuales y no se recalcan las partes más importantes de la misma.
 * Se guía correctamente al usuario para ayudarlo a realizar sus tareas, lo que ayuda a usuarios con menos conocimientos tecnológicos.
