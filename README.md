@@ -17,17 +17,11 @@ Actualizado: 14/01/2026
 ![Método UX](img/caseStudy.png) 
 -----
 
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
-
->>> Hay que Publicar de forma incremental "my Case Study" en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
-
 Grupo: DIU1.Zipizape.  Curso: 2025/26 
 
 Nombre del Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Dorayakiya
 
 Descripción: 
 
@@ -40,8 +34,6 @@ Logotipo:
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Pablo de la Torre Roldán     :octocat:     https://github.com/pablovroldanUGR
  * :bust_in_silhouette:  Adrián Ramírez Andrés     :octocat:        https://github.com/Rammrezzz
-
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
 ----- 
 
@@ -60,46 +52,51 @@ Miembros y nombre del equipo:
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+Pensamos usar Usability Testing, entrevistas y Unmoderated Testing para la selección de nuestros usuarios. Pretendemos priorizar métodos cualitativos, que prioricen las acciones del usuario y que mezclen tanto un contexto natural como preestablecido.
 
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Las aplicaciones asignadas tienen bastante buena tamática y diseño pero no priorizan la simpleza y sobreestimulan al usuario con elementos innecesarios. Hemos decidido seleccionar Anime Ramen para analizarlo por sus funcionalidades extra que las demás no tienen y su compatibilidad con varios tipos de dispositivos.
 
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+Hemos creado dos perfiles de usuarios muy distintos. Uno de ellos es un “friki” de los videojuegos y el anime mientras que el otro es un padre de familia divorciado que no tiene prácticamente ningún manejo con los dispositivos y que va a entrar en la página para llevar a comer a sus hijos.
+
+Primera persona: 
+![alt_text](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P1/imgs/Persona%20%231.png)
+
+Segunda persona:
+![alt_text](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P1/imgs/Persona%20%232.png)
 
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+
+La primera experiencia de usuario describe el comportamiento de una persona introvertida que no quiere salir de casa pero tiene curiosidad por el local y quiere descubrir cosas nuevas. Tiene una clara preocupación por la cercanía de la ubicación del local que representa bastante bien su personalidad y es un usuario que pretende conseguir lo que quiere de forma rápida y eficiente. Es un comportamiento bastante acertado que finalmente pida la comida a domicilio por su personalidad introvertida.
+![alt_text](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P1/imgs/UserJourneyMap%231.png)
+
+La segunda experiencia de usuario define la forma de actuar de una persona a la que no le interesa ni la gastronomía ni el local, pero que acaba yendo para acompañar a su familia. Su pobre manejo con la tecnología le dificulta hacer una reserva, por lo que se ve afectada en gran medida su experiencia. Además, creemos que es muy habitual el pensamiento de "tendré que cenar en casa" al no gustarle el menú. 
 
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
-
-<br>
+* [Análisis de usabilidad](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P1/imgs/UsabilityReview.pdf)
+* La valoración obtenida ha sido 71/100.
+* Los puntos fuertes son el diseño atractivo y coherente con la temática y el rendimiento de la página, además de la compatibilidad entre dispositivos de la misma.
+* Los puntos débiles son la navegación poco intuitiva y el pobre trabajo de mantenimiento.
 
 
 <br>
-
-## Paso 1. UX User & Desk Research & Analisis 
-Puedes encontrar la práctica 1 [aquí](https://github.com/zipizapeteam/UX_CaseStudy/tree/master/P1)
 
 ## Paso 2. UX Design  
 
