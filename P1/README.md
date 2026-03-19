@@ -74,6 +74,13 @@ Segundo User Journey Map:
 
 ## 5. Usability Review
 Se puede encontrar el Usability Review [aquí](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P1/imgs/UsabilityReview.pdf)
+Nuestras conclusiones sobre el Usability Review realizado son:
+* La página web es poco intuitiva ya que hay una sobrecarga de elementos visuales y no se recalcan las partes más importantes de la misma.
+* Se guía correctamente al usuario para ayudarlo a realizar sus tareas, lo que ayuda a usuarios con menos conocimientos tecnológicos.
+* También tiene problemas de mantenimiento (botones que no hacen nada).
+* El diseño es atractivo y coherente con el tipo de negocio. Aunque no sean claras, sí están presentes todas las funcionalidades de la página, permitiendo realizar las tareas de forma fluida una vez que las encuentras.
+* El rendimiento de la página es excelente, ya que utiliza una única página web en la que se incluyen casi todas las funcionalidades (por ejemplo, el botón "nuestros servicios" solamente hace scroll). Además, cuando se realizan tareas que requieren abrir páginas nuevas, el rendimiento no cae (como por ejemplo mostrar la carta).
+* La página web se ve bien tanto en formato horizontal como vertical.
 
 ## 6. Briefing final
 Anime Ramen ofrece una página web muy bonita visualmente, dejando clara la temática y poniendo tanto videos como fotos del local y la comida, con un aspecto agradable y llamativo a la vista. Sin embargo, la página deja detalles sin pulir, que pueden perjudicar gravemente la experiencia del usuario promedio que la utiliza. La web es  en algunas partes muy monótona y en otras con muchos estímulos, no dan prioridad a ninguna parte de la misma y dejan al usuario que se enfrente solo al menú. Todo eso provoca que pese a tener todo lo importante adelante, el usuario sea incapaz a veces de realizar el camino correcto. Además la página no tiene un buen mantenimiento, con locales que ya no existen en ella y con contenido desactualizado. También se podría hacer una mejor elección de la fuente y colores para aumentar la legibilidad.
