@@ -64,7 +64,9 @@ Persona 2:
 ![alt_text](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P1/imgs/Persona%20%232.png)
 
 ## 4. User Journey Map
-Hemos creado un Journey Map para cada uno de nuestros usuarios ficticios. Cada uno tiene sus propios objetivos, preferencias, reacciones y pensamientos dependiendo de su perfil. 
+Hemos creado un Journey Map para cada uno de nuestros usuarios ficticios. Cada uno tiene sus propios objetivos, preferencias, reacciones y pensamientos dependiendo de su perfil. Cabe destacar que hay un punto del Journey Map para ambos usuarios en el que su experiencia se torna negativa. En ambos casos se llega a dicha situación porque no encuentran una forma rápida de hacer una reserva, aspecto que se debe mejorar.
+
+Se puede apreciar que Antonio tiene una peor experiencia en general debido a su poca familiaridad con dispositivos tecnológicos y que Juan se desenvuelve mejor en la aplicación. Esto se debe a la diferencia de interés entre ambos usuarios, siendo Juan más afín por la gastronomía y temática y Antonio más rechazativo. Además, ambos usuarios abarcan las dos opciones para disfrutar de los servicios del local. Antonio va al local a comer y Juan pide la comida a domicilio.
 
 Primer User Journey Map:
 ![alt_text](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P1/imgs/UserJourneyMap%231.png)
