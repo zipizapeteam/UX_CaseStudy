@@ -96,6 +96,7 @@ La segunda experiencia de usuario define la forma de actuar de una persona a la 
 <br>
 
 ## Paso 2. UX Design  
+[enlace al entregable de la P2](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P2/README.md)
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / Empathy map 
 Del Empathy Map hemos concluido que los perfiles y experiencias de ambos usuarios son muy distintas, haciendo así que cada uno esté ligado a un contexto distinto. Sin embargo, ambos usuarios esperan que el restaurante sea un lugar amplio y adaptado para toda la familia. Los robots son la atracción principal y en general gustan a todo el público, aunque tengan diferentes opiniones sobre ellos.
@@ -114,7 +115,7 @@ El principal problema es mantener la atención de los clientes, haciendo que qui
 ![Método UX](img/ScopeCanvas.png)
 ----
 
-** CAMBIAR EL ENLACE ** ![alt_text](enlace_a_scope_canvas_miniatura)
+![alt_text](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P2/imgs/scope_canvas_miniatura.jpg)
 
 
 
@@ -123,7 +124,7 @@ El principal problema es mantener la atención de los clientes, haciendo que qui
 -----
 
 Vamos a utilizar la técnica task flow para definir las principales funcionalidades y su importancia para los usuarios.
-** CAMBIAR EL ENLACE ** ![alt_text](enlace_a_user_flow)
+![alt_text](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P2/imgs/task_analysis.png)
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
