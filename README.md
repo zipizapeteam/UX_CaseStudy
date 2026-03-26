@@ -66,10 +66,10 @@ Las aplicaciones asignadas tienen bastante buena tamática y diseño pero no pri
 Hemos creado dos perfiles de usuarios muy distintos. Uno de ellos es un “friki” de los videojuegos y el anime mientras que el otro es un padre de familia divorciado que no tiene prácticamente ningún manejo con los dispositivos y que va a entrar en la página para llevar a comer a sus hijos.
 
 Primera persona: 
-![alt_text](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P1/imgs/Persona%20%231.png)
+![alt_text](P1/imgs/Persona%20%231.png)
 
 Segunda persona:
-![alt_text](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P1/imgs/Persona%20%232.png)
+![alt_text](P1/imgs/Persona%20%232.png)
 
 
 ### 1.d User Journey Map
@@ -78,7 +78,7 @@ Segunda persona:
 
 
 La primera experiencia de usuario describe el comportamiento de una persona introvertida que no quiere salir de casa pero tiene curiosidad por el local y quiere descubrir cosas nuevas. Tiene una clara preocupación por la cercanía de la ubicación del local que representa bastante bien su personalidad y es un usuario que pretende conseguir lo que quiere de forma rápida y eficiente. Es un comportamiento bastante acertado que finalmente pida la comida a domicilio por su personalidad introvertida.
-![alt_text](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P1/imgs/UserJourneyMap%231.png)
+![alt_text](P1/imgs/UserJourneyMap%231.png)
 
 La segunda experiencia de usuario define la forma de actuar de una persona a la que no le interesa ni la gastronomía ni el local, pero que acaba yendo para acompañar a su familia. Su pobre manejo con la tecnología le dificulta hacer una reserva, por lo que se ve afectada en gran medida su experiencia. Además, creemos que es muy habitual el pensamiento de "tendré que cenar en casa" al no gustarle el menú. 
 
@@ -87,7 +87,7 @@ La segunda experiencia de usuario define la forma de actuar de una persona a la 
 ![Método UX](img/usabilityReview.png) 
 ----
 
-* [Análisis de usabilidad](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P1/imgs/UsabilityReview.pdf)
+* [Análisis de usabilidad](P1/imgs/UsabilityReview.pdf)
 * La valoración obtenida ha sido 71/100.
 * Los puntos fuertes son el diseño atractivo y coherente con la temática y el rendimiento de la página, además de la compatibilidad entre dispositivos de la misma.
 * Los puntos débiles son la navegación poco intuitiva y el pobre trabajo de mantenimiento.
@@ -96,7 +96,7 @@ La segunda experiencia de usuario define la forma de actuar de una persona a la 
 <br>
 
 ## Paso 2. UX Design  
-[enlace al entregable de la P2](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P2/README.md)
+[enlace al entregable de la P2](P2/README.md)
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / Empathy map 
 Del Empathy Map hemos concluido que los perfiles y experiencias de ambos usuarios son muy distintas, haciendo así que cada uno esté ligado a un contexto distinto. Sin embargo, ambos usuarios esperan que el restaurante sea un lugar amplio y adaptado para toda la familia. Los robots son la atracción principal y en general gustan a todo el público, aunque tengan diferentes opiniones sobre ellos.
@@ -115,7 +115,7 @@ El principal problema es mantener la atención de los clientes, haciendo que qui
 ![Método UX](img/ScopeCanvas.png)
 ----
 
-![alt_text](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P2/imgs/scope_canvas_miniatura.jpg)
+![alt_text](P2/imgs/scope_canvas_miniatura.jpg)
 
 
 
