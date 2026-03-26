@@ -98,17 +98,17 @@ La segunda experiencia de usuario define la forma de actuar de una persona a la 
 ## Paso 2. UX Design  
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / Empathy map 
-![Método UX](img/feedback-capture-grid.png) 
-----
 Del Empathy Map hemos concluido que los perfiles y experiencias de ambos usuarios son muy distintas, haciendo así que cada uno esté ligado a un contexto distinto. Sin embargo, ambos usuarios esperan que el restaurante sea un lugar amplio y adaptado para toda la familia. Los robots son la atracción principal y en general gustan a todo el público, aunque tengan diferentes opiniones sobre ellos.
 
+![Método UX](img/feedback-capture-grid.png) 
+----
+
+El principal problema es mantener la atención de los clientes, haciendo que quieran repetir la experiencia en vez de ser un sitio al que van una vez para ver los robots y no aparecer nunca más. Podemos solucionarlo y conseguir que repitan añadiendo promociones al menú y haciendo cambios sutiles en él. El principal punto fuerte es que toda la familia puede disfrutar de la experiencia.
 
  Interesante | Críticas     
 | ------------- | -------
   Preguntas | Nuevas ideas
   
-    
-El principal problema es mantener la atención de los clientes, haciendo que quieran repetir la experiencia en vez de ser un sitio al que van una vez para ver los robots y no aparecer nunca más. Podemos solucionarlo y conseguir que repitan añadiendo promociones al menú y haciendo cambios sutiles en él. El principal punto fuerte es que toda la familia puede disfrutar de la experiencia.
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
