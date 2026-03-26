@@ -25,7 +25,7 @@ Nombre del Proyecto:
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Queremos crear un restaurante que esté ambientado en el anime Doraemon. La carta estará basada en los platos típicos de la cultura japonesa que están presentes en el anime y los camareros serán robots que se asemejan al personaje principal Doraemon. Dichos camareros serán la atracción principal del restaurante, sirviendo platos desde su bolsillo mágico.
 
 Logotipo: 
 
@@ -97,13 +97,10 @@ La segunda experiencia de usuario define la forma de actuar de una persona a la 
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
+### 2.a Reframing / IDEACION: Feedback Capture Grid / Empathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
+Del Empathy Map hemos concluido que los perfiles y experiencias de ambos usuarios son muy distintas, haciendo así que cada uno esté ligado a un contexto distinto. Sin embargo, ambos usuarios esperan que el restaurante sea un lugar amplio y adaptado para toda la familia. Los robots son la atracción principal y en general gustan a todo el público, aunque tengan diferentes opiniones sobre ellos.
 
 
  Interesante | Críticas     
@@ -111,16 +108,13 @@ La segunda experiencia de usuario define la forma de actuar de una persona a la 
   Preguntas | Nuevas ideas
   
     
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
-
+El principal problema es mantener la atención de los clientes, haciendo que quieran repetir la experiencia en vez de ser un sitio al que van una vez para ver los robots y no aparecer nunca más. Podemos solucionarlo y conseguir que repitan añadiendo promociones al menú y haciendo cambios sutiles en él. El principal punto fuerte es que toda la familia puede disfrutar de la experiencia.
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+** CAMBIAR EL ENLACE ** ![alt_text](enlace_a_scope_canvas_miniatura)
 
 
 
@@ -128,8 +122,8 @@ La segunda experiencia de usuario define la forma de actuar de una persona a la 
 ![Método UX](img/Sitemap.png) 
 -----
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
-
+Vamos a utilizar la técnica task flow para definir las principales funcionalidades y su importancia para los usuarios.
+** CAMBIAR EL ENLACE ** ![alt_text](enlace_a_user_flow)
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
