@@ -43,18 +43,18 @@ Los perfiles y experiencias de ambos usuarios son muy distintas, haciendo así q
 
 Dichos contextos y personalidades hacen que aunque lo que escuchen y vean sea parecido, sus sentimientos, lo que piensan, hacen y dicen es muy distinto. 
 
-![alt_text](link_a_primer_empathy_map)
-![alt_text](link_a_segundo_empathy_map)
+![alt_text](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P2/imgs/empathy_map_1.jpg)
+![alt_text](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P2/imgs/empathy_map_2.jpg)
 
 ### 2.2. Feedback Capture Grid
 Creemos que es conveniente implementar funcionalidades como ver el menú en la web, exponer reseñas de usuarios anteriores e implementar un sistema de puntos siempre y cuando conservemos la estética, rendimiento y simplicidad de la página. Además debemos hacer que el mantenimiento de la página sea sencillo e intentar que los usuarios que ya han probado el servicio sigan teniendo ganas de volver a ir. Algunos aspectos buenos de la competencia son la simplicidad y rendimiento de la página y la capacidad de ejecutar la página en un móvil sin que se vea mal.
 
-![alt_text](link_a_feedback_capture_grid)
+![alt_text](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P2/imgs/feedback_capture_grid.jpg)
 
 ## 3. Scope Canvas
 Queremos crear un gastrobar donde no tan sólo puedes disfrutar de la comida típica del Doraemon, sino ver a “réplicas” del protagonista como tus propios camareros. Daremos muchísima importancia a la ambientación, tanto de la página web, como del local. Como exploramos un nicho de mercado donde hay muchos potenciales consumidores con poco uso de internet, nos centraremos en que la web sea intuitiva y óptima.
 
-![alt_text](enlace_a_scope_canvas)
+![alt_text](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P2/imgs/scope_canvas.jpg)
 
 ## 4. Task Analysis
 Para realizar el análisis de tareas hemos utilizado la estrategia Task Flow. En ella se ven reflejadas las funcionalidades de la web y los pasos a seguir para realizarlas. Entre dichas funcionalidades están: 
@@ -65,7 +65,7 @@ Para realizar el análisis de tareas hemos utilizado la estrategia Task Flow. En
 * Pedir online
 * Contactar con el local
 
-![alt_text](enlace_a_task_analysis)
+![alt_text](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P2/imgs/task_analysis.png)
 
 ## 5. Arquitectura de Información
 
