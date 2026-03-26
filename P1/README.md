@@ -48,7 +48,7 @@ Hemos elegido analizar los siguientes competidores:
 * [Buga Ramen](https://buga-ramen.com/)
 * [Anime Ramen](https://animeramen.com/)
   
-![alt_text](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P1/imgs/CompetitorAnalysis.jpg)
+![alt_text](imgs/CompetitorAnalysis.jpg)
 
 Nuestra conclusión del análisis de competidores es que Ramen SHIFU es el competidor con mejor temática y diseño pero su navegación es poco intuitiva. Anime Ramen no tiene tan buen diseño pero tiene más funcionalidades como permitir la reserva y los pedidos online, además de una navegación intuitiva. BUGA Ramen tiene un diseño acorde con la temática (que mejora bastante si se ve desde un móvil) y permite contactar con un formulario. Sin embargo no tiene tan buena accesibilidad ni compatibilidad con ordenadores. 
 
@@ -58,10 +58,10 @@ Teniendo en cuenta todos estos aspectos hemos decidido que la ganadora es BUGA R
 Hemos creado dos perfiles de personas. Uno de ellos es un “friki” de los videojuegos y el anime, con habilidades tecnológicas. El otro usuario es un padre de familia divorciado que no tiene prácticamente ningún manejo con los dispositivos y que va a entrar en la página para llevar a comer a sus hijos. El objetivo de la página web es permitir cumplir sus objetivos a ambas personas con perfiles tan distintos de una forma intuitiva y agradable.
 
 Persona 1:
-![alt_text](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P1/imgs/Persona%20%231.png)
+![alt_text](imgs/Persona%20%231.png)
 
 Persona 2:
-![alt_text](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P1/imgs/Persona%20%232.png)
+![alt_text](imgs/Persona%20%232.png)
 
 ## 4. User Journey Map
 Hemos creado un Journey Map para cada uno de nuestros usuarios ficticios. Cada uno tiene sus propios objetivos, preferencias, reacciones y pensamientos dependiendo de su perfil. Cabe destacar que hay un punto del Journey Map para ambos usuarios en el que su experiencia se torna negativa. En ambos casos se llega a dicha situación porque no encuentran una forma rápida de hacer una reserva, aspecto que se debe mejorar.
@@ -69,13 +69,13 @@ Hemos creado un Journey Map para cada uno de nuestros usuarios ficticios. Cada u
 Se puede apreciar que Antonio tiene una peor experiencia en general debido a su poca familiaridad con dispositivos tecnológicos y que Juan se desenvuelve mejor en la aplicación. Esto se debe a la diferencia de interés entre ambos usuarios, siendo Juan más afín por la gastronomía y temática y Antonio más rechazativo. Además, ambos usuarios abarcan las dos opciones para disfrutar de los servicios del local. Antonio va al local a comer y Juan pide la comida a domicilio.
 
 Primer User Journey Map:
-![alt_text](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P1/imgs/UserJourneyMap%231.png)
+![alt_text](imgs/UserJourneyMap%231.png)
 
 Segundo User Journey Map:
-![alt_text](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P1/imgs/UserJourneyMap%232.png)
+![alt_text](imgs/UserJourneyMap%232.png)
 
 ## 5. Usability Review
-Se puede encontrar el Usability Review [aquí](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P1/imgs/UsabilityReview.pdf)
+Se puede encontrar el Usability Review [aquí](imgs/UsabilityReview.pdf)
 
 Nuestras conclusiones sobre el Usability Review realizado son:
 * La página web es poco intuitiva ya que hay una sobrecarga de elementos visuales y no se recalcan las partes más importantes de la misma.
