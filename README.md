@@ -124,7 +124,7 @@ El principal problema es mantener la atención de los clientes, haciendo que qui
 -----
 
 Vamos a utilizar la técnica task flow para definir las principales funcionalidades y su importancia para los usuarios.
-![alt_text](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P2/imgs/task_analysis.png)
+![alt_text](P2/imgs/task_analysis_miniatura.png)
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
