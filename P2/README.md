@@ -101,19 +101,24 @@ En la página Reserva, arriba tendrá un listado de los restaurantes disponibles
 En la página Reseña, se le mostrará un listado de las reseñas anteriores, tendrá un bloque de texto donde verá lo que escriba y una vez terminado (si se ha registrado antes), podrá realizarla.
 
 
-**PÁGINA INICIAL**
+**PÁGINA INICIAL:**
+
 ![alt_text](imgs/WireframeBasico/paginaPrincipal.png)
 
-**CARTA**
+**CARTA:**
+
 ![alt_text](imgs/WireframeBasico/paginaCarta.png)
 
-**REALIZAR PEDIDO ONLINE**
+**REALIZAR PEDIDO ONLINE:**
+
 ![alt_text](imgs/WireframeBasico/paginaPedido.png)
 
-**REALIZAR RESERVA**
+**REALIZAR RESERVA:**
+
 ![alt_text](imgs/WireframeBasico/paginaReserva.png)
 
-**CREAR RESEÑA**
+**CREAR RESEÑA:**
+
 ![alt_text](imgs/WireframeBasico/paginaResenia.png)
 
 
