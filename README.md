@@ -114,6 +114,7 @@ El principal problema es mantener la atención de los clientes, haciendo que qui
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
+Queremos crear un gastrobar donde no tan sólo puedes disfrutar de la comida típica del Doraemon, sino ver a “réplicas” del protagonista como tus propios camareros. Daremos muchísima importancia a la ambientación, tanto de la página web, como del local. Como exploramos un nicho de mercado donde hay muchos potenciales consumidores con poco uso de internet, nos centraremos en que la web sea intuitiva y óptima.
 
 ![alt_text](P2/imgs/scope_canvas_miniatura.jpg)
 
