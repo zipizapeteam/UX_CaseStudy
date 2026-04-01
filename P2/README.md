@@ -102,19 +102,19 @@ En la página Reseña, se le mostrará un listado de las reseñas anteriores, te
 
 
 **PÁGINA INICIAL**
-![alt_text]()
+![alt_text](imgs/WireframeBasico/paginaPrincipal.png)
 
 **CARTA**
-![alt_text]()
+![alt_text](imgs/WireframeBasico/paginaCarta.png)
 
 **REALIZAR PEDIDO ONLINE**
-![alt_text]()
+![alt_text](imgs/WireframeBasico/paginaPedido.png)
 
 **REALIZAR RESERVA**
-![alt_text]()
+![alt_text](imgs/WireframeBasico/paginaReserva.png)
 
 **CREAR RESEÑA**
-![alt_text]()
+![alt_text](imgs/WireframeBasico/paginaResenia.png)
 
 
 ### 6.2. Segunda versión con grid layout y responsive
