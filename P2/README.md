@@ -91,8 +91,6 @@ Término | Significado
 
 
 ## 6. Prototipo
-### 6.1. Esbozo en papel
+### 6.1. Wireframe preeliminar en Figma
 
-### 6.2. Wireframe preeliminar en Figma
-
-### 6.3. Segunda versión con grid layout y responsive
+### 6.2. Segunda versión con grid layout y responsive
