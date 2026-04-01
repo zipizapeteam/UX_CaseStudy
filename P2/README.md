@@ -92,5 +92,29 @@ Término | Significado
 
 ## 6. Prototipo
 ### 6.1. Wireframe preeliminar en Figma
+En la página pedir online, cuando el usuario hace click en tramitar pago, se le redirige a una página con un formulario en el que introduce sus datos para terminar el pedido. 
+
+En la página Carta hemos implementado una funcionalidad de aplicar filtros. Para ello en un recuadro en la parte superior derecha, tendremos un desplegable donde elegir entre etiquetas, ordenar por precio etc. Eso actualizará la página para mostrar el contenido requerido, facilitando al usuario a encontrar específicamente lo que desea, teniendo una mejor navegabilidad y experiencia.
+
+En la página Reserva, arriba tendrá un listado de los restaurantes disponibles. Una vez selecciones uno, el resto de operaciones en la web se harán sobre el mismo. Tendrá un sistema para elegir fecha tipo calendario. Una vez elegido día le saldrán franjas horarias disponibles y una vez rellene los campos obligatorios, podrá darle a efectuar su reserva.
+
+En la página Reseña, se le mostrará un listado de las reseñas anteriores, tendrá un bloque de texto donde verá lo que escriba y una vez terminado (si se ha registrado antes), podrá realizarla.
+
+
+**PÁGINA INICIAL**
+![alt_text]()
+
+**CARTA**
+![alt_text]()
+
+**REALIZAR PEDIDO ONLINE**
+![alt_text]()
+
+**REALIZAR RESERVA**
+![alt_text]()
+
+**CREAR RESEÑA**
+![alt_text]()
+
 
 ### 6.2. Segunda versión con grid layout y responsive
