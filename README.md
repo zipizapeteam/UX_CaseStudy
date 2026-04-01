@@ -130,12 +130,18 @@ Vamos a utilizar la técnica task flow para definir las principales funcionalida
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
-
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+Con nuestro diseño del SiteMap hemos intentado conseguir que el usuario realice sus objetivos con el menor número de clicks posibles. Hemos decidido incluir una página por cada tarea descrita en el Task Analysis, a las que se puede acceder desde la barra de navegación en la página inicial. Además se usa una página de confirmación para el pedido online y la reserva online.
 
 Término | Significado     
 | ------------- | -------
-  Login  | acceder a plataforma
+  Página de inicio | Página principal. Acceso rápido a todas las secciones del gastrobar
+  Iniciar Sesión | Inicio de sesión o registro de usuario. Necesario para escribir reseñas
+  Pedir Online | Formulario para pedir a domicilio o recogida, con opción de realizar el pago
+  Carta | Menú completo: Platos japoneses del anime y dorayakis u otros postres
+  Reseñas | Lista de reseñas. Escribir una nueva reseña(requiere iniciar sesión previamente)
+  Reserva | Formulario para reservar mesa online con antelación. Confirmación automática
+  Contactar | Formulario para contactar con los restaurantes
+  Error 404 | Mensaje mostrado cuando por cualquier motivo la página no es encontrada
 
 
 ### 2.d Wireframes
