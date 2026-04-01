@@ -65,10 +65,29 @@ Para realizar el análisis de tareas hemos utilizado la estrategia Task Flow. En
 * Ver la carta
 * Pedir online
 * Contactar con el local
+Para hacer una review se requiere iniciar sesión y para pedir online se requiere introducir el correo o teléfono, dirección y tarjeta de crédito, pero no hace falta iniciar sesión. Además, al hacer una reserva o pedido online se muestra una página de confirmación.
 
 ![alt_text](imgs/task_analysis.png)
 
 ## 5. Arquitectura de Información
+### 5.1. SiteMap
+Con nuestro diseño del SiteMap hemos intentado conseguir que el usuario realice sus objetivos con el menor número de clicks posibles. Hemos decidido incluir una página por cada tarea descrita en el Task Analysis, a las que se puede acceder desde la barra de navegación en la página inicial. Además se usa una página de confirmación para el pedido online y la reserva online.
+![alt_text](imgs/sitep_map_1.png)
+![alt_text](imgs/sitep_map_2.png)
+![alt_text](imgs/sitep_map_3.png)
+
+### 5.2. Labelling
+Término | Significado     
+| ------------- | -------
+  Página de inicio | Página principal. Acceso rápido a todas las secciones del gastrobar
+  Iniciar Sesión | Inicio de sesión o registro de usuario. Necesario para escribir reseñas
+  Pedir Online | Formulario para pedir a domicilio o recogida, con opción de realizar el pago
+  Carta | Menú completo: Platos japoneses del anime y dorayakis u otros postres
+  Reseñas | Lista de reseñas. Escribir una nueva reseña(requiere iniciar sesión previamente)
+  Reserva | Formulario para reservar mesa online con antelación. Confirmación automática
+  Contactar | Formulario para contactar con los restaurantes
+  Error 404 | Mensaje mostrado cuando por cualquier motivo la página no es encontrada
+
 
 
 ## 6. Prototipo
