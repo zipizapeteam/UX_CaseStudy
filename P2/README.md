@@ -1,9 +1,9 @@
 # Entregable P2 DIU
-Este .md tiene el mismo contenido que el **CAMBIAR ENLACE**[pdf entregado por prado](Entrega_P2.pdf). Sin embargo, tiene enlaces a los archivos multimedia en el repositorio de Github.
+Este .md tiene el mismo contenido que el [pdf entregado por prado](Entrega_P2.pdf). Sin embargo, tiene enlaces a los archivos multimedia en el repositorio de Github.
 ## 1. Case study
 ¿Y si hubiera un restaurante donde pudiéramos fusionar el disfrute de varias generaciones, con un anime tan mítico como Doraemon?
 
-Esto mismo nos preguntamos nosotros cuando decidimos llevar a cabo esta iniciativa. Un gastrobar donde no tan solo podías disfrutar de la comida típica del anime, sino que ver a “réplicas” del protagonista como tus propios camareros.
+Esto mismo nos preguntamos nosotros cuando decidimos llevar a cabo esta iniciativa. Un gastrobar donde no solo podías disfrutar de la comida típica del anime, sino que ver “réplicas” del protagonista como tus propios camareros.
 
 **Tiempo:** Lo que queda de semestre.
 
@@ -15,10 +15,10 @@ Esto mismo nos preguntamos nosotros cuando decidimos llevar a cabo esta iniciati
 * Crear una experiencia única, innovadora e inolvidable que nos permita saborear el futuro, con nuestros robots camareros.
 
 **Oportunidad:**
-Llevar nuestra idea a la realidad es totalmente factible, ya que la tecnología está inventada. Ya hay varios restaurantes con camareros robots. Solo tendríamos que modificarlos levemente para hacer que se asemejen a Doraemon y el local no es difícil de conseguir. Como tal en España, no encontramos mucha información sobre locales similares al nuestro. Aunque la idea de un gastrobar basado en un anime no es nueva, un local en concreto con el matiz de doraemon y la tecnología no existe. Creímos por ello que tenía bastante sentido darle la oportunidad de llevarse a cabo, ya que con la temática y los robots se va a publicitar solo y si conseguimos una calidad gastronómica buena, podemos sacarlo adelante.
+Llevar nuestra idea a la realidad es totalmente factible, ya que la tecnología está inventada. Ya hay varios restaurantes con camareros robots. Solo tendríamos que modificarlos levemente para hacer que se asemejen a Doraemon y el local no es difícil de conseguir. Como tal en España, no hemos encontrado mucha información sobre locales similares al nuestro. Aunque la idea de un gastrobar basado en un anime no es nueva, un local en concreto con el matiz de doraemon y la tecnología no existe. Creímos, por ello, que tenía bastante sentido darle la oportunidad de llevarse a cabo, ya que con la temática y los robots se va a publicitar solo y si conseguimos una calidad gastronómica buena, podemos sacarlo adelante.
 
 **Quienes son nuestros usuarios y que necesitan:**
-Lo bonito de nuestro local, es que no está diseñado para un público concreto. Doraemon es un anime multigeneracional, lo que permite que adultos y pequeños tengan curiosidad por visitarlo. Pero en concreto, sabemos que nuestro principal público son familias , incitadas a acudir por la petición de sus hijos, que actualmente disfrutan los “dibujos animados”
+Una de las principales ventajas de nuestro local es que no está diseñado para un público concreto. Doraemon es un anime multigeneracional, lo que permite que adultos y pequeños tengan curiosidad por visitarlo. Pero en concreto, sabemos que nuestro principal público son familias incitadas a acudir por la petición de sus hijos, que actualmente disfrutan de los “dibujos animados”
 
 **Análisis de la competencia:**
 Tras realizar el análisis competitivo de la práctica 1 hemos identificado varios aspectos positivos y negativos de nuestra competencia y sus páginas web.
@@ -48,12 +48,12 @@ Dichos contextos y personalidades hacen que aunque lo que escuchen y vean sea pa
 ![alt_text](imgs/empathy_map_2.jpg)
 
 ### 2.2. Feedback Capture Grid
-Creemos que es conveniente implementar funcionalidades como ver el menú en la web, exponer reseñas de usuarios anteriores e implementar un sistema de puntos siempre y cuando conservemos la estética, rendimiento y simplicidad de la página. Además debemos hacer que el mantenimiento de la página sea sencillo e intentar que los usuarios que ya han probado el servicio sigan teniendo ganas de volver a ir. Algunos aspectos buenos de la competencia son la simplicidad y rendimiento de la página y la capacidad de ejecutar la página en un móvil sin que se vea mal.
+Creemos que es conveniente implementar funcionalidades como ver el menú en la web, exponer reseñas de usuarios anteriores e implementar un sistema de puntos siempre y cuando conservemos la estética, rendimiento y simplicidad de la página. Además debemos hacer que el mantenimiento de la página sea sencillo e intentar que los usuarios que ya han probado el servicio sigan teniendo ganas de volver a ir. Algunos aspectos buenos de la competencia son la simplicidad y rendimiento de la página y la capacidad de ejecutar la página en un móvil sin que se tenga problemas visuales.
 
 ![alt_text](imgs/feedback_capture_grid.jpg)
 
 ## 3. Scope Canvas
-Queremos crear un gastrobar donde no tan sólo puedes disfrutar de la comida típica del Doraemon, sino ver a “réplicas” del protagonista como tus propios camareros. Daremos muchísima importancia a la ambientación, tanto de la página web, como del local. Como exploramos un nicho de mercado donde hay muchos potenciales consumidores con poco uso de internet, nos centraremos en que la web sea intuitiva y óptima.
+Queremos crear un gastrobar donde no sólo puedes disfrutar de la comida típica del Doraemon, sino ver a “réplicas” del protagonista como tus propios camareros. Daremos muchísima importancia a la ambientación, tanto de la página web, como del local. Como exploramos un nicho de mercado donde hay muchos potenciales consumidores con poco uso de internet, nos centraremos en que la web sea intuitiva y óptima.
 
 ![alt_text](imgs/scope_canvas.jpg)
 
@@ -92,7 +92,7 @@ Término | Significado
 
 
 ## 6. Prototipo
-Para hacer los wireframe hemos utilizado Figma. Hemos hecho un marco de 1440x1440 de máximo sobre el que tenemos un header, footer y main en todas las páginas. La organización es bastante sencilla:
+Para hacer los wireframe hemos utilizado Figma. Hemos hecho un marco de 1440x1440 de tamaño máximo sobre el que tenemos un header, footer y main en todas las páginas. La estructura es la siguiente:
 
 * El header está compuesto por el logo de la página, la imagen de usuario que te dirige a la página de iniciar sesión y un menú desplegable con enlaces a todas las páginas.
 * El main tiene el contenido propio de cada página
@@ -105,7 +105,7 @@ En la página pedir online, cuando el usuario hace click en tramitar pago, se le
 
 En la página Carta hemos implementado una funcionalidad de aplicar filtros. Para ello en un recuadro en la parte superior derecha, tendremos un desplegable donde elegir entre etiquetas, ordenar por precio etc. Eso actualizará la página para mostrar el contenido requerido, facilitando al usuario a encontrar específicamente lo que desea, teniendo una mejor navegabilidad y experiencia.
 
-En la página Reserva, arriba tendrá un listado de los restaurantes disponibles. Una vez selecciones uno, el resto de operaciones en la web se harán sobre el mismo. Tendrá un sistema para elegir fecha tipo calendario. Una vez elegido día le saldrán franjas horarias disponibles y una vez rellene los campos obligatorios, podrá darle a efectuar su reserva.
+En la página Reserva, arriba tendrá un listado de los restaurantes disponibles. Una vez selecciones uno, el resto de operaciones en la web se harán sobre el mismo. Tendrá un sistema para elegir fecha tipo calendario. Una vez elegido día le saldrán las franjas horarias disponibles y una vez rellene los campos obligatorios, podrá darle a efectuar su reserva.
 
 En la página Reseña, se le mostrará un listado de las reseñas anteriores, tendrá un bloque de texto donde verá lo que escriba y una vez terminado (si se ha registrado antes), podrá realizarla.
 
