@@ -148,7 +148,8 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+>>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada
+Para hacer el wireframe hemos utilizado Figma. Con un click basta para entrar a cada menú. 
 
 <br>
 
