@@ -75,6 +75,7 @@ Con nuestro diseño del SiteMap hemos intentado conseguir que el usuario realice
 ![alt_text](imgs/sitep_map_1.png)
 ![alt_text](imgs/sitep_map_2.png)
 ![alt_text](imgs/sitep_map_3.png)
+![alt_text](imgs/sitep_map_4.png)
 
 ### 5.2. Labelling
 Término | Significado     
