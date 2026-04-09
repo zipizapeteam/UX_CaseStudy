@@ -122,5 +122,9 @@ En la página Reseña, se le mostrará un listado de las reseñas anteriores, te
 
 ![alt_text](imgs/WireframeBasico/paginaResenia.png)
 
+**CARRITO:**
+
+![alt_text](imgs/WireframeBasico/paginaCarrito.png)
+
 
 ### 6.2. Segunda versión con grid layout y responsive
