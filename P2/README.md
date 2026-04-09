@@ -92,6 +92,12 @@ Término | Significado
 
 
 ## 6. Prototipo
+Para hacer los wireframe hemos utilizado Figma. Hemos hecho un marco de 1440x1440 de máximo sobre el que tenemos un header, footer y main en todas las páginas. La organización es bastante sencilla:
+
+* El header está compuesto por el logo de la página, la imagen de usuario que te dirige a la página de iniciar sesión y un menú desplegable con enlaces a todas las páginas.
+* El main tiene el contenido propio de cada página
+* El footer tiene enlaces a las páginas de términos y condiciones, privacidad y redes sociales.
+
 ### 6.1. Wireframe preeliminar en Figma
 Puedes encontrar el wireframe preliminar [aqui](wireframePreliminar.fig)
 
