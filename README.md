@@ -148,8 +148,11 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada
-Para hacer el wireframe hemos utilizado Figma. Con un click basta para entrar a cada menú. 
+Para hacer el wireframe hemos utilizado Figma. Hemos hecho un marco de 1440x1440 de máximo sobre el que tenemos un header, footer y main en todas las páginas. La organización es bastante sencilla:
+
+* El header está compuesto por el logo de la página, la imagen de usuario que te dirige a la página de iniciar sesión y un menú desplegable con enlaces a todas las páginas.
+* El main tiene el contenido propio de cada página
+* El footer tiene enlaces a las páginas de términos y condiciones, privacidad y redes sociales.
 
 <br>
 
