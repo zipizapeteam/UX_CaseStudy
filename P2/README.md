@@ -1,5 +1,5 @@
 # Entregable P2 DIU
-Este .md tiene el mismo contenido que el **CAMBIAR ENLACE**[pdf entregado por prado](enlace_a_pdf). Sin embargo, tiene enlaces a los archivos multimedia en el repositorio de Github.
+Este .md tiene el mismo contenido que el **CAMBIAR ENLACE**[pdf entregado por prado](Entrega_P2.pdf). Sin embargo, tiene enlaces a los archivos multimedia en el repositorio de Github.
 ## 1. Case study
 ¿Y si hubiera un restaurante donde pudiéramos fusionar el disfrute de varias generaciones, con un anime tan mítico como Doraemon?
 
