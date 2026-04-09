@@ -93,6 +93,8 @@ Término | Significado
 
 ## 6. Prototipo
 ### 6.1. Wireframe preeliminar en Figma
+Puedes encontrar el wireframe preliminar [aqui](wireframePreliminar.fig)
+
 En la página pedir online, cuando el usuario hace click en tramitar pago, se le redirige a una página con un formulario en el que introduce sus datos para terminar el pedido. 
 
 En la página Carta hemos implementado una funcionalidad de aplicar filtros. Para ello en un recuadro en la parte superior derecha, tendremos un desplegable donde elegir entre etiquetas, ordenar por precio etc. Eso actualizará la página para mostrar el contenido requerido, facilitando al usuario a encontrar específicamente lo que desea, teniendo una mejor navegabilidad y experiencia.
@@ -128,3 +130,28 @@ En la página Reseña, se le mostrará un listado de las reseñas anteriores, te
 
 
 ### 6.2. Segunda versión con grid layout y responsive
+Puedes encontrar el archivo de figma [aqui](wireframeResponsive.fig)
+
+Para conseguir un wireframe responsive hemos adaptado las estructuras de nuestros diseños para usando layouts, gracias a los que podemos usar propiedades como altura máxima y mínima (al igual que anchura), o por ejemplo aplicar propiedades parecidas a grid/flex/block de CSS. De esta manera la página se adapta dinámicamente al tamaño de la ventana y a cualquier dispositivo que lo reproduzca. Además, para poder hacer mas bonitas estas adaptaciones hemos diseñado los botones del menú dentro de un desplegable.
+
+En definitiva, con combinaciones diversas de estos mecanismos, hemos conseguido que nuestras páginas se adapten de manera responsive para la visualización del usuario. 
+
+**PÁGINA INICIAL:**
+
+![alt_text](imgs/WireframeResponsive/paginaPrincipal.png)
+
+**CARTA:**
+
+![alt_text](imgs/WireframeResponsive/paginaCarta.png)
+
+**REALIZAR PEDIDO ONLINE:**
+
+![alt_text](imgs/WireframeResponsive/paginaPedido.png)
+
+**REALIZAR RESERVA:**
+
+![alt_text](imgs/WireframeResponsive/paginaReserva.png)
+
+**CREAR RESEÑA:**
+
+![alt_text](imgs/WireframeResponsive/paginaResenia.png)
