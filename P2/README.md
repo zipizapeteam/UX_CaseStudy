@@ -3,7 +3,7 @@ Este .md tiene el mismo contenido que el [pdf entregado por prado](Entrega_P2.pd
 ## 1. Case study
 ¿Y si hubiera un restaurante donde pudiéramos fusionar el disfrute de varias generaciones, con un anime tan mítico como Doraemon?
 
-Esto mismo nos preguntamos nosotros cuando decidimos llevar a cabo esta iniciativa. Un gastrobar donde no solo podías disfrutar de la comida típica del anime, sino que ver “réplicas” del protagonista como tus propios camareros.
+Esto mismo nos preguntamos nosotros cuando decidimos llevar a cabo esta iniciativa. Un gastrobar donde puedes disfrutar de la comida típica del anime y ver réplicas robóticas del protagonista como tus propios camareros.
 
 **Tiempo:** Lo que queda de semestre.
 
