@@ -75,7 +75,6 @@ Con nuestro diseño del SiteMap hemos intentado conseguir que el usuario realice
 ![alt_text](imgs/sitep_map_1.png)
 ![alt_text](imgs/sitep_map_2.png)
 ![alt_text](imgs/sitep_map_3.png)
-![alt_text](imgs/sitep_map_4.png)
 
 ### 5.2. Labelling
 Término | Significado     
@@ -99,7 +98,7 @@ Para hacer los wireframe hemos utilizado Figma. Hemos hecho un marco de 1440x144
 * El footer tiene enlaces a las páginas de términos y condiciones, privacidad y redes sociales.
 
 ### 6.1. Wireframe preeliminar en Figma
-Puedes encontrar el wireframe preliminar [aqui](wireframePreliminar.fig)
+Puedes encontrar el wireframe preliminar [aqui](WireframePreliminar.fig)
 
 En la página pedir online, cuando el usuario hace click en tramitar pago, se le redirige a una página con un formulario en el que introduce sus datos para terminar el pedido. 
 
@@ -136,7 +135,7 @@ En la página Reseña, se le mostrará un listado de las reseñas anteriores, te
 
 
 ### 6.2. Segunda versión con grid layout y responsive
-Puedes encontrar el archivo de figma [aqui](wireframeResponsive.fig)
+Puedes encontrar el archivo de figma [aqui](WireframeResponsive.fig)
 
 Para conseguir un wireframe responsive hemos adaptado las estructuras de nuestros diseños para usando layouts, gracias a los que podemos usar propiedades como altura máxima y mínima (al igual que anchura), o por ejemplo aplicar propiedades parecidas a grid/flex/block de CSS. De esta manera la página se adapta dinámicamente al tamaño de la ventana y a cualquier dispositivo que lo reproduzca. Además, para poder hacer mas bonitas estas adaptaciones hemos diseñado los botones del menú dentro de un desplegable.
 
