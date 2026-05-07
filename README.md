@@ -158,39 +158,44 @@ Para hacer el wireframe hemos utilizado Figma. Hemos hecho un marco de 1440x1440
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
+DorayakiYa
 
 
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
+Nuestra paleta se basa en una armonía monocromática, usando distintos tonos de azul como colores principales y el amarillo como color secundario para crear contraste.
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+Hemos elegido Fredoka One como nuestra tipografía para los títulos por su simpleza y estilo moderno. También hemos elegido Baloo 2 para el texto, por su facilidad de leer y diferenciación del fondo.
+
+Nuestro estilo es amigable y juguetón, inspirado en Doraemon. Con nuestro logo queremos hacer énfasis en nuestra principal atracción (Doraemon), a la vez que en nuestro plato estrella (los dorayakis). 
+
+Hemos hecho un logo secundario más simple para utilizarlo en determinados contextos que requieren un ambiente más minimalista.
+
+Nuestro slogan: “Sabores desde el bolsillo mágico” se inspira en el concepto del bolsillo mágico de Doraemon, entendido como un símbolo de sorpresa, imaginación y aparición inesperada de objetos. En nuestro restaurante, esta idea se traslada a la experiencia del servicio: la comida no se sirve de forma tradicional, sino que es transportada por robots camareros con apariencia del propio Doraemon, generando la sensación de que los platos llegan directamente desde ese bolsillo mágico.
 
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
-
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+El landing page lo hemos hecho a mano y lo hemos ido actualizando conforme hemos avanzado con la práctica. Tenemos un menú de navegación en el header con un dropdown menu y sin tener que scrollear se puede acceder a pedir online, nuestro servicio de mayor prioridad.
 
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Metodología Atomic Design: Se ha decidido construir la interfaz partiendo de elementos básicos (átomos como botones y tipografías) hasta llegar a estructuras complejas (organismos). Esto asegura consistencia en todas las pantallas y agiliza el prototipado.
+
+Accesibilidad Visual: Siguiendo directrices de ergonomía visual, se han descartado el blanco y negro puros (#FFFFFF y #000000) sustituyéndolos por tonos suavizados (#FAFAFA y #181818) para evitar la fatiga ocular, especialmente pensando en un público de todas las edades.
+
+Sistema de Cuadrícula (Grid) y Jerarquía: Se ha establecido un espaciado consistente y una jerarquía clara mediante el contraste del azul (color principal) y el amarillo (llamadas a la acción), usando tipografías amigables (Fredoka One y Baloo 2).
 
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
-
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
-
+Nuestro mockup implementa las páginas principales de nuestra web (página principal, carta, pedir online, reseñas, resrevar) y los botones para navegar entre ellas.
 
 <br>
 
