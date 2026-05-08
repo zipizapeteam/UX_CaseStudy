@@ -56,9 +56,9 @@ Además utilizamos **tipografía japonesa** para añadir un extra de inmersión 
 
 ### 1.6. Nuestras Imágenes
 
-> "Las imágenes seleccionadas reflejan la esencia de DorayakiYa al combinar tecnología, gastronomía y una experiencia visual atractiva. Por un lado, el robot camarero transmite modernidad e innovación, posicionando al restaurante como un espacio diferente y tecnológico. Por otro, la imagen de la familia disfrutando de la comida muestra el ambiente cercano, divertido y familiar que se quiere ofrecer a clientes de todas las edades. Finalmente, la imagen de los platos destaca la propuesta gastronómica, mostrando comida típica del anime con un aspecto muy cuidado, colorido y apetecible, que refuerza la idea de una experiencia inmersiva y memorable.
-> 
-> En conjunto, estas imágenes comunican un equilibrio entre tecnología, entretenimiento y calidad culinaria, elementos clave de la identidad de la marca."
+Las imágenes seleccionadas reflejan la esencia de DorayakiYa al combinar tecnología, gastronomía y una experiencia visual atractiva. Por un lado, el robot camarero transmite modernidad e innovación, posicionando al restaurante como un espacio diferente y tecnológico. Por otro, la imagen de la familia disfrutando de la comida muestra el ambiente cercano, divertido y familiar que se quiere ofrecer a clientes de todas las edades. Finalmente, la imagen de los platos destaca la propuesta gastronómica, mostrando comida típica del anime con un aspecto muy cuidado, colorido y apetecible, que refuerza la idea de una experiencia inmersiva y memorable.
+
+En conjunto, estas imágenes comunican un equilibrio entre tecnología, entretenimiento y calidad culinaria, elementos clave de la identidad de la marca.
 
 | | | |
 |---|---|---|
