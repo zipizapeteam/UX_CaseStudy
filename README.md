@@ -274,9 +274,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ### 5.a Exportación a HTML/React
 ![Método UX](img/usabilityReview.png) 
 ----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
+Hemos utilizado Figma Make para implementar nuestro proyecto de Figma a React. Poco a poco hemos ido indicándole que cosas mejorar del diseño inicial, hasta tener la página web final funcional.
 
 ### 5.b Documentación con Storybook
 ![Método UX](img/usabilityReview.png)
