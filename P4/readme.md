@@ -1,17 +1,16 @@
 # DIU - Practica 4, entregables
 
->>> Se publicará la [Asignacion_ABtesting](https://github.com/mgea/DIU/blob/master/P4/Asignacion_ABtesting.pdf)
->>> Se publicará la lista de grupos y los respectivos GitHub
+**ENLACE A PÁGINA WEB FINAL**: []()
 
-- Users. Elección y características de los usuarios reclutados
-- Diseño de las pruebas
-- Realización del Cuestionario SUS para usuarios y casos A y B.
-- Tabla A/B Testing con resultados para A y B
-- Eye Tracking para B
-- Usability Report del Caso B, con toda la información recabada del caso B
+## Crear APP React
+Vamos a pasar nuestra página de Figma a React con Figma Make. Para ello le hemos ido pidiendo que haga todas las funcionalidades en código react. Poco a poco hemos ido perfeccionando el resultado de cada iteración.
 
-Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
-- Conclusiones
+## Versión web en producción
+Una vez que hemos terminado con la implementación de la página final, hemos pasado a desplegarla en un enlace.
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+Para generar el enlace de la página hemos utilizado Figma Make. Le hemos dado al botón publicar para generar el enlace de la página y le hemos puesto de nombre Dorayakiya. Se ha generado el siguiente enlace para acceder a la versión final de la página: 
+
+## Briefing Final
+Nuestros elementos de diseño iniciales se han mantenido durante todo el proceso. Los átomos que hemos creado y hemos ido utilizando para nuestro prototipo se han mantenido intactos. Las fuentes han sido las mismas y las imágenes igual.
+
+Para crear la APP react hemos utilizado Figma Make. El proceso ha sido bastante tedioso, perfeccionando poco a poco cada detalle. Al final, hemos optado por un ciclo de detectar que está mal en la generación de la IA y pedirle que lo arregle para acabar con una página web que utiliza nuestros propios componentes, pero les da la funcionalidad esperada.
