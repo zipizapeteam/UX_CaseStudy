@@ -29,8 +29,7 @@ Descripción:
 Queremos crear un restaurante que esté ambientado en el anime Doraemon. La carta estará basada en los platos típicos de la cultura japonesa que están presentes en el anime y los camareros serán robots que se asemejan al personaje principal Doraemon. Dichos camareros serán la atracción principal del restaurante, sirviendo platos desde su bolsillo mágico.
 
 Logotipo: 
-
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+![alt_text](https://github.com/zipizapeteam/UX_CaseStudy/blob/master/P3/imgs/logoDorayakiYa.png)
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Pablo de la Torre Roldán     :octocat:     https://github.com/pablovroldanUGR
