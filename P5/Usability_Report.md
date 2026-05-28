@@ -221,3 +221,10 @@ La puntuación obtenida también puede justificarse por algunos problemas de nav
 | Media | Varios usuarios encontraron dificultades para finalizar el pedido y realizar el pago, ya que el botón correspondiente no destaca visualmente lo suficiente dentro de la página. Aunque esto puede verse afectado por las limitaciones del software de Gaze Mapping, se considera un punto a revisar. | Mejorar el contraste, tamaño o posicionamiento del botón de pago para aumentar su visibilidad y facilitar la finalización del proceso de compra. |
 | Baja | Los mapas de calor muestran que los usuarios centraron gran parte de su atención en los elementos principales de navegación y en acciones destacadas como "Pedir online" y "Reservar", lo que indica una correcta jerarquía visual. | Mantener la estructura visual actual y continuar reforzando los elementos clave mediante contrastes y diseño visual coherente. |
 | Baja | En algunos mapas de calor se aprecia una dispersión de clics en zonas superiores y laterales de la interfaz, especialmente alrededor del logotipo y del menú, indicando posibles dudas sobre el funcionamiento de determinados elementos de navegación. | Simplificar la navegación y reforzar la consistencia de los elementos interactivos para reducir la confusión y mejorar la experiencia general del usuario. |
+
+Además, en el caso B hemos detectado que el menú desplegable para navegar entre páginas está posicionado en el logo principal de la página, lo cual es bastante poco intuitivo. Cuando se abre no sale ninguna opción para ir a la página principal y no hay forma de volver a ella cuando se está en otra página. Además, no hay forma de cerrar dicho menú desplegable.
+
+<video width="640" height="360" controls>
+  <source src="P5/imgs/Demostracion_Menu_B.webm" type="video/mp4">
+  [enlace al vídeo de demostración]()
+</video>
