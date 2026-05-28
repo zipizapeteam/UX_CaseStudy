@@ -74,60 +74,60 @@ En total, seleccionamos cinco personas para realizar las pruebas sobre nuestra p
 
 **Usuario 1:** consigue el objetivo, sin problemas para acceder, directo y rápido.
 
-![Inicio - Pedido Usuario 1](A_testing/A_1/inicio_pedironline1.jpg)
-![Pide Online - Pedido Usuario 1](A_testing/A_1/objetivopedir_pedironline1.jpg)
-![Carrito - Pedido Usuario 1](A_testing/A_1/carrito_pedironline1.jpg)
+![Inicio - Pedido Usuario 1](A%20_testing/A_1/inicio_pedironline1.jpg)
+![Pide Online - Pedido Usuario 1](A%20_testing/A_1/objetivopedir_pedironline1.jpg)
+![Carrito - Pedido Usuario 1](A%20_testing/A_1/carrito_pedironline1.jpg)
 
 **Usuario 2:** consigue el objetivo. Navega rápidamente a la página pide online, sin problemas.
 
-![Inicio - Pedido Usuario 2](./A_testing/A_2/inicio_pedironline2.jpg)
-![Pide Online - Pedido Usuario 2](./A_testing/A_2/objetivopedir_pedironline2.jpg)
-![Carrito - Pedido Usuario 2](./A_testing/A_2/carrito_pedironline2.jpg)
+![Inicio - Pedido Usuario 2](./A%20_testing/A_2/inicio_pedironline2.jpg)
+![Pide Online - Pedido Usuario 2](./A%20_testing/A_2/objetivopedir_pedironline2.jpg)
+![Carrito - Pedido Usuario 2](./A%20_testing/A_2/carrito_pedironline2.jpg)
 
 **Usuario 3:** consigue el objetivo de manera sencilla e intuitiva.
 
-![Inicio - Pedido Usuario 3](./A_testing/A_3/inicio_pedironline.jpg)
-![Pide Online - Pedido Usuario 3](./A_testing/A_3/objetivopedironline_pedironline.jpg)
-![Carrito - Pedido Usuario 3](./A_testing/A_3/carrito_pedironline.jpg)
+![Inicio - Pedido Usuario 3](./A%20_testing/A_3/inicio_pedironline.jpg)
+![Pide Online - Pedido Usuario 3](./A%20_testing/A_3/objetivopedironline_pedironline.jpg)
+![Carrito - Pedido Usuario 3](./A%20_testing/A_3/carrito_pedironline.jpg)
 
 **Usuario 4:** consigue el objetivo directamente sin problemas.
 
-![Inicio - Pedido Usuario 4](./A_testing/A_10/inicio_pedironline10.jpg)
-![Pide Online - Pedido Usuario 4](./A_testing/A_10/objetivopedir_pedironline10.jpg)
-![Carrito - Pedido Usuario 4](./A_testing/A_10/carrito_pedironline10.jpg)
+![Inicio - Pedido Usuario 4](./A%20_testing/A_10/inicio_pedironline10.jpg)
+![Pide Online - Pedido Usuario 4](./A%20_testing/A_10/objetivopedir_pedironline10.jpg)
+![Carrito - Pedido Usuario 4](./A%20_testing/A_10/carrito_pedironline10.jpg)
 
 **Usuario 5:** consigue el objetivo de manera sencilla.
 
-![Inicio - Pedido Usuario 5](./A_testing/A_5/inicio_pedironline5.jpg)
-![Pide Online - Pedido Usuario 5](./A_testing/A_5/objetivo_pedironline5.jpg)
-![Carrito - Pedido Usuario 5](./A_testing/A_5/carrito_pedironline5.jpg)
+![Inicio - Pedido Usuario 5](./A%20_testing/A_5/inicio_pedironline5.jpg)
+![Pide Online - Pedido Usuario 5](./A%20_testing/A_5/objetivo_pedironline5.jpg)
+![Carrito - Pedido Usuario 5](./A%20_testing/A_5/carrito_pedironline5.jpg)
 
 ### 5.2. Tarea Realizar Reserva
 
 **Usuario 1:** consigue el objetivo, sin problemas para acceder, directo y rápido (más familiarizado que la anterior prueba).
 
-![Inicio - Reserva Usuario 1](./A_testing/A_1/inicio_reservar1.jpg)
-![Reserva - Reserva Usuario 1](./A_testing/A_1/objetivoreserva_reserva1.jpg)
+![Inicio - Reserva Usuario 1](./A%20_testing/A_1/inicio_reservar1.jpg)
+![Reserva - Reserva Usuario 1](./A%20_testing/A_1/objetivoreserva_reserva1.jpg)
 
 **Usuario 2:** consigue el objetivo. Va directo a la página reservar, tarda muy poco.
 
-![Inicio - Reserva Usuario 2](./A_testing/A_2/inicio_reservar2.jpg)
-![Reserva - Reserva Usuario 2](./A_testing/A_2/reservarobjetivo_reservar2.jpg)
+![Inicio - Reserva Usuario 2](./A%20_testing/A_2/inicio_reservar2.jpg)
+![Reserva - Reserva Usuario 2](./A%20_testing/A_2/reservarobjetivo_reservar2.jpg)
 
 **Usuario 3:** consigue el objetivo de manera fluida y ha apreciado que la estética es muy adecuada.
 
-![Inicio - Reserva Usuario 3](./A_testing/A_3/inicio_reservar.jpg)
-![Reserva - Reserva Usuario 3](./A_testing/A_3/objetivoreserver_reservar.jpg)
+![Inicio - Reserva Usuario 3](./A%20_testing/A_3/inicio_reservar.jpg)
+![Reserva - Reserva Usuario 3](./A%20_testing/A_3/objetivoreserver_reservar.jpg)
 
 **Usuario 4:** consigue el objetivo. Consigue hacer la tarea directamente.
 
-![Inicio - Reserva Usuario 4](./A_testing/A_10/inicio_reservar10.jpg)
-![Reserva - Reserva Usuario 4](./A_testing/A_10/objetivoreserva_reservar10.jpg)
+![Inicio - Reserva Usuario 4](./A%20_testing/A_10/inicio_reservar10.jpg)
+![Reserva - Reserva Usuario 4](./A%20_testing/A_10/objetivoreserva_reservar10.jpg)
 
 **Usuario 5:** consigue el objetivo en poco tiempo.
 
-![Inicio - Reserva Usuario 5](./A_testing/A_5/inicio_reservar5.jpg)
-![Reserva - Reserva Usuario 5](./A_testing/A_5/objetivo_reservar5.jpg)
+![Inicio - Reserva Usuario 5](./A%20_testing/A_5/inicio_reservar5.jpg)
+![Reserva - Reserva Usuario 5](./A%20_testing/A_5/objetivo_reservar5.jpg)
 
 ### 5.3. Cuestionario SUS
 
