@@ -224,5 +224,5 @@ La puntuación obtenida también puede justificarse por algunos problemas de nav
 
 Además, en el caso B hemos detectado que el menú desplegable para navegar entre páginas está posicionado en el logo principal de la página, lo cual es bastante poco intuitivo. Cuando se abre no sale ninguna opción para ir a la página principal y no hay forma de volver a ella cuando se está en otra página. Además, no hay forma de cerrar dicho menú desplegable.
 
-<video src="P5/imgsDemostracion_Menu_B.mp4" width="100%" autoplay loop controls muted></video>
-[Enlace al vídeo de la demostración](P5/imgsDemostracion_Menu_B.mp4)
+<video src="imgs/Demostracion_Menu_B.mp4" width="100%" autoplay loop controls muted></video>
+[Enlace al vídeo de la demostración](imgs/Demostracion_Menu_B.mp4)
