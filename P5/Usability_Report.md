@@ -74,9 +74,9 @@ En total, seleccionamos cinco personas para realizar las pruebas sobre nuestra p
 
 **Usuario 1:** consigue el objetivo, sin problemas para acceder, directo y rápido.
 
-![Inicio - Pedido Usuario 1](./A_testing/A_1/inicio_pedironline1.jpg)
-![Pide Online - Pedido Usuario 1](./A_testing/A_1/objetivopedir_pedironline1.jpg)
-![Carrito - Pedido Usuario 1](./A_testing/A_1/carrito_pedironline1.jpg)
+![Inicio - Pedido Usuario 1](A_testing/A_1/inicio_pedironline1.jpg)
+![Pide Online - Pedido Usuario 1](A_testing/A_1/objetivopedir_pedironline1.jpg)
+![Carrito - Pedido Usuario 1](A_testing/A_1/carrito_pedironline1.jpg)
 
 **Usuario 2:** consigue el objetivo. Navega rápidamente a la página pide online, sin problemas.
 
