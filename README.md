@@ -203,11 +203,11 @@ Nuestro mockup implementa las páginas principales de nuestra web (página princ
 
 ### 4.a Reclutamiento de usuarios
 
-El Caso B corresponde a la evaluación de la página web de Goiko, utilizada como referencia comparativa dentro del estudio de usabilidad. El objetivo de las pruebas fue comparar la experiencia de usuario de nuestra propuesta (Caso A) frente a una página web consolidada del mismo sector mediante técnicas de A/B Testing, cuestionarios SUS y Eye Tracking.
+El Caso B corresponde a la evaluación de la página web de Goiko, utilizada como referencia comparativa dentro del estudio de usabilidad. El objetivo de las pruebas fue comparar la experiencia de usuario de nuestra propuesta (Caso A) frente a una página web de otros compañeros
 
 Repositorio GitHub:
 
-https://github.com/zipizapeteam/UX_CaseStudy
+https://github.com/mmpeula/UX_CaseStudy
 
 Para realizar las pruebas se seleccionaron distintos perfiles de usuario con el objetivo de obtener resultados variados y representativos. Se buscó combinar usuarios con diferentes niveles de experiencia tecnológica para identificar posibles problemas de usabilidad desde distintas perspectivas.
 
@@ -301,7 +301,7 @@ Los resultados obtenidos mostraron que:
 
 Estos resultados permitieron identificar posibles problemas de diseño y complementar las observaciones realizadas durante las pruebas de usuario.
 
-*(Sustituir la imagen del experimento por una captura propia obtenida durante las pruebas realizadas con Gaze Recorder y almacenarla en la carpeta P4.)*
+P5/A_testing/A_1/inicio_pedironline1.jpg
 
 ---
 
