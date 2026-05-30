@@ -301,7 +301,7 @@ Los resultados obtenidos mostraron que:
 
 Estos resultados permitieron identificar posibles problemas de diseño y complementar las observaciones realizadas durante las pruebas de usuario.
 
-![Inicio - Reserva Usuario 1](./A%20_testing/A_1/inicio_reservar1.jpg)
+![Inicio - Reserva Usuario 1](P5/A%20testing/A_1/inicio_reservar1.jpg)
 
 ---
 
