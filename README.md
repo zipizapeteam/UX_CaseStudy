@@ -199,96 +199,163 @@ Nuestro mockup implementa las páginas principales de nuestra web (página princ
 
 <br>
 
-## Paso 4. Pruebas de Evaluación 
+## Paso 4. Pruebas de Evaluación
 
-### 4.a Reclutamiento de usuarios 
-![Método UX](img/usability-testing.png)
------
+### 4.a Reclutamiento de usuarios
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+El Caso B corresponde a la evaluación de la página web de Goiko, utilizada como referencia comparativa dentro del estudio de usabilidad. El objetivo de las pruebas fue comparar la experiencia de usuario de nuestra propuesta (Caso A) frente a una página web consolidada del mismo sector mediante técnicas de A/B Testing, cuestionarios SUS y Eye Tracking.
 
+Repositorio GitHub:
 
+https://github.com/zipizapeteam/UX_CaseStudy
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+Para realizar las pruebas se seleccionaron distintos perfiles de usuario con el objetivo de obtener resultados variados y representativos. Se buscó combinar usuarios con diferentes niveles de experiencia tecnológica para identificar posibles problemas de usabilidad desde distintas perspectivas.
 
+| Usuarios | Sexo/Edad | Ocupación              | Exp.TIC | Personalidad | Plataforma | Caso |
+| -------- | --------- | ---------------------- | ------- | ------------ | ---------- | ---- |
+| User1    | H / 21    | Estudiante             | Alta    | Analítico    | Web        | A    |
+| User2    | M / 21    | Estudiante             | Media   | Reflexiva    | Web        | A    |
+| User3    | M / 55    | Profesora              | Baja    | Prudente     | Web        | B    |
+| User4    | H / 55    | Profesor Universitario | Media   | Racional     | Web        | B    |
 
-### 4.b Diseño de las pruebas 
-![Método UX](img/usability-testing.png) 
------
+Posibles situaciones conflictivas:
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+* **User1:** podría detectar rápidamente inconsistencias técnicas o problemas de navegación.
+* **User2:** podría encontrar dificultades si determinadas funcionalidades no resultan intuitivas.
+* **User3:** podría tener problemas para localizar acciones importantes o interpretar elementos poco habituales de la interfaz.
+* **User4:** podría verse afectado por comportamientos que no siguen los estándares habituales de navegación web.
 
+---
 
+### 4.b Diseño de las pruebas
+
+Las pruebas de usabilidad se diseñaron para evaluar las funcionalidades más importantes de ambas páginas web. Tras analizar los objetivos principales de cada propuesta se seleccionaron dos tareas representativas:
+
+1. Realizar un pedido online.
+2. Realizar una reserva.
+
+Cada usuario debía completar ambas tareas de forma autónoma mientras se observaba su comportamiento, el tiempo empleado y las dificultades encontradas durante el proceso.
+
+Además de la observación directa se utilizaron las siguientes herramientas:
+
+* Cuestionario SUS (System Usability Scale).
+* Mapas de calor mediante Gaze Mapping.
+* Registro de incidencias y comentarios de los participantes.
+
+También se tuvieron en cuenta diversos aspectos evaluados previamente mediante el checklist desarrollado en la Práctica 1, especialmente aquellos relacionados con navegación, consistencia visual, visibilidad de acciones principales y facilidad de aprendizaje.
+
+---
 
 ### 4.c Cuestionario SUS
-![Método UX](img/Survey.png) 
-----
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+Como método cuantitativo de evaluación se utilizó el cuestionario SUS (System Usability Scale), ampliamente utilizado para medir la percepción subjetiva de usabilidad de una aplicación o sitio web.
 
+Los resultados obtenidos fueron los siguientes:
+
+| Caso   | Puntuación SUS |
+| ------ | -------------- |
+| Caso A | 96,25          |
+| Caso B | 81,77          |
+
+Ambas puntuaciones se encuentran muy por encima de la media de referencia de 68 puntos considerada como una buena usabilidad.
+
+El Caso A obtuvo una puntuación excepcional, reflejando una experiencia de usuario muy satisfactoria, intuitiva y fácil de aprender. Por su parte, el Caso B también recibió una valoración positiva, aunque se detectaron algunos problemas relacionados con la navegación y la localización de determinadas funcionalidades.
+
+El archivo Excel utilizado para calcular estas puntuaciones se encuentra adjunto en la carpeta P4.
+
+---
 
 ### 4.d A/B Testing
-![Método UX](img/ABtesting.png) 
------
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+Los resultados del A/B Testing muestran diferencias claras entre ambas propuestas.
 
-### 4.e Aplicación del método Eye Tracking 
-![Método UX](img/eye-tracking.png)
-----
+| Prueba           | Caso A            | Caso B        |
+| ---------------- | ----------------- | ------------- |
+| Realizar pedido  | Muy satisfactorio | Satisfactorio |
+| Realizar reserva | Muy satisfactorio | Satisfactorio |
+| Cuestionario SUS | 96,25             | 81,77         |
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+Tras analizar los resultados obtenidos en las distintas pruebas puede concluirse que el **Caso A presenta una mejor experiencia de usuario global**.
 
+Los usuarios completaron las tareas de forma más rápida, cometieron menos errores y valoraron más positivamente la facilidad de uso de la interfaz. Además, la puntuación SUS obtenida respalda esta conclusión.
 
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
+Por tanto, el resultado agregado del A/B Testing indica que el **Caso A es más usable que el Caso B**.
 
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
+---
 
+### 4.e Aplicación del método Eye Tracking
+
+Para complementar las pruebas de usabilidad se utilizó la herramienta Gaze Recorder, proporcionada por el profesor, con el objetivo de analizar visualmente cómo interactúan los usuarios con la interfaz.
+
+Esta técnica se aplicó exclusivamente al Caso B.
+
+Los participantes debían realizar las mismas tareas planteadas anteriormente mientras la herramienta registraba los movimientos de su mirada. Posteriormente se generaron mapas de calor que permitieron identificar las zonas que recibían mayor atención visual.
+
+Los usuarios fueron reclutados siguiendo los mismos criterios utilizados en las pruebas de usabilidad, garantizando distintos niveles de experiencia tecnológica.
+
+Los resultados obtenidos mostraron que:
+
+* La atención se concentraba principalmente en los botones de "Pedir Online" y "Reservar".
+* Algunos usuarios centraban parte de su atención en el logotipo esperando volver a la página principal.
+* Se detectó cierta dispersión visual alrededor del menú desplegable y del botón de pago.
+
+Estos resultados permitieron identificar posibles problemas de diseño y complementar las observaciones realizadas durante las pruebas de usuario.
+
+*(Sustituir la imagen del experimento por una captura propia obtenida durante las pruebas realizadas con Gaze Recorder y almacenarla en la carpeta P4.)*
+
+---
 
 ### 4.f Usability Report de B
-![Método UX](img/usability-report.png) 
------
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
+El análisis de usabilidad realizado sobre el Caso B permitió detectar diversos aspectos susceptibles de mejora.
 
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
+Entre los problemas más relevantes encontrados destacan:
 
+* El logotipo funciona como menú desplegable en lugar de redirigir al inicio, generando confusión en varios usuarios.
+* No existe una forma clara de cerrar el menú desplegable una vez abierto.
+* El botón de finalizar pedido no destaca visualmente lo suficiente.
+* Algunos usuarios tuvieron dificultades para regresar a la página principal.
 
+A pesar de estos problemas, los participantes valoraron positivamente la estructura general del contenido y la facilidad para localizar las funcionalidades principales.
 
-<br>
+Enlace al documento de asignación de evaluaciones:
 
-## Paso 5. Exportación y Documentación 
+**[Añadir enlace al archivo correspondiente en P4]**
 
+#### Valoración personal del equipo
+
+La realización de esta práctica ha resultado especialmente útil para comprender la importancia de validar un diseño mediante usuarios reales. Muchas decisiones que parecían adecuadas durante el desarrollo mostraron ciertos problemas cuando fueron utilizadas por personas ajenas al proyecto.
+
+Las técnicas de A/B Testing, cuestionarios SUS y Eye Tracking han permitido obtener información objetiva sobre la experiencia de usuario y detectar oportunidades de mejora que no habrían sido evidentes únicamente mediante una evaluación interna.
+
+---
+
+## Paso 5. Exportación y Documentación
 
 ### 5.a Exportación a HTML/React
-![Método UX](img/usabilityReview.png) 
-----
-Hemos utilizado Figma Make para implementar nuestro proyecto de Figma a React. Poco a poco hemos ido indicándole que cosas mejorar del diseño inicial, hasta tener la página web final funcional.
+
+Hemos utilizado Figma Make para implementar nuestro proyecto de Figma a React. Poco a poco hemos ido indicándole qué aspectos mejorar del diseño inicial hasta obtener una página web funcional y cercana al resultado deseado.
 
 ### 5.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
-----
 
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
+Storybook es una herramienta orientada a la documentación y visualización de componentes de interfaz de usuario de manera independiente.
 
+Su utilización permite comprobar el comportamiento individual de cada componente, mantener una documentación organizada del sistema de diseño y facilitar futuras tareas de mantenimiento y escalabilidad.
 
-<br>
+Las evidencias correspondientes a este apartado se encuentran disponibles en la carpeta P5.
 
-## Conclusiones finales & Valoración de las prácticas
+---
 
+# Conclusiones finales & Valoración de las prácticas
 
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
+La metodología UX aplicada a lo largo de todas las prácticas ha permitido desarrollar una solución centrada en las necesidades reales de los usuarios. Gracias a las distintas fases del proceso, desde la investigación inicial hasta las pruebas finales de usabilidad, ha sido posible detectar problemas, validar decisiones de diseño y mejorar progresivamente la experiencia de usuario.
+
+Los resultados obtenidos han sido especialmente positivos para nuestra propuesta, que alcanzó una puntuación SUS de 96,25 puntos. Esto demuestra que las decisiones adoptadas durante el diseño han contribuido a crear una interfaz intuitiva, eficiente y agradable de utilizar.
+
+Entre los aspectos que podrían mejorarse en futuras iteraciones destaca la ampliación del número de participantes para obtener resultados más representativos y la utilización de herramientas profesionales de Eye Tracking que permitan obtener datos más precisos.
+
+En general, la experiencia ha resultado muy enriquecedora y ha permitido comprender la importancia de diseñar productos digitales teniendo siempre en cuenta las necesidades, expectativas y comportamiento de los usuarios finales.
+
 
 
 
