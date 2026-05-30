@@ -301,7 +301,7 @@ Los resultados obtenidos mostraron que:
 
 Estos resultados permitieron identificar posibles problemas de diseño y complementar las observaciones realizadas durante las pruebas de usuario.
 
-P5/A_testing/A_1/inicio_pedironline1.jpg
+![Inicio pedido online](A_testing/A_1/inicio_pedironline1.jpg)
 
 ---
 
@@ -320,7 +320,7 @@ A pesar de estos problemas, los participantes valoraron positivamente la estruct
 
 Enlace al documento de asignación de evaluaciones:
 
-**[Añadir enlace al archivo correspondiente en P4]**
+https://docs.google.com/document/d/13UsD-lJXP4iQpZFPtYzaATVYd1CXiv0iTmCTTzy-bng/edit?usp=sharing
 
 #### Valoración personal del equipo
 
